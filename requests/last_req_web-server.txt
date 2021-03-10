@@ -1,0 +1,5 @@
+GET /ch30/ HTTP/1.1
+Host: web-serveur
+User-Agent: curl/7.64.1
+Accept: */*
+Proxy-Connection: Keep-Alive
