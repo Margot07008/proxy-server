@@ -5,9 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85dbab3b-9044-4a32-ab5a-225e287938bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="85dbab3b-9044-4a32-ab5a-225e287938bd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1pWSLNmXhtpzw9q8cA2UrwTXlCF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,10 +35,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../go1.15.2/src/findVulnerabilities" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Margot\go\src\proxy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Margot\go\go1.15.2\src\findVulnerabilities" />
       <recent name="C:\Users\Margot\go\src\proxy" />
@@ -73,6 +78,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615389554997">
